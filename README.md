@@ -1,43 +1,3 @@
-
-# Polpo Todo API
-
-Este es un API RESTful sencillo para gestionar usuarios, listas de tareas pendientes (todos) y tareas (tasks). El objetivo de este proyecto es demostrar la implementación de un API básico siguiendo los principios REST.
-
-
-## Requisitos
-- **Node.js** : Asegúrate de tener instalada la versión 14 o superior.
-- **npm** : Administrador de paquetes de Node.js.
-
-
-## Instalacion
-
-- Clonar repositorio
-    git glone
-    cd polpo-todo-api
-
-- Instala las dependencias
-    npm install
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
 # Polpo Todo API
 
 Este es un API RESTful sencillo para gestionar usuarios, listas de tareas pendientes (todos) y tareas (tasks). El objetivo de este proyecto es demostrar la implementación de un API básico siguiendo los principios REST.
@@ -52,7 +12,7 @@ Este es un API RESTful sencillo para gestionar usuarios, listas de tareas pendie
 
 - Clonar repositorio
 ```
-git glone 
+git glone https://github.com/bluehat8/polpo-todo-api 
 cd polpo-todo-api
 
 ```
